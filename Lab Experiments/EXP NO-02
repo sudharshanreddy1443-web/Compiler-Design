@@ -36,6 +36,9 @@ int main()
 
     return 0;
 }
+
+Output:
+
 <img width="312" height="166" alt="Screenshot 2026-10-01 134549" src="https://github.com/user-attachments/assets/0d8df15d-4bb4-4fca-a8bc-51ba7e4120c3" />
 <img width="306" height="152" alt="Screenshot 2026-10-01 134717" src="https://github.com/user-attachments/assets/57e61917-1944-4b9b-af36-7cc8740b0ffd" />
 
